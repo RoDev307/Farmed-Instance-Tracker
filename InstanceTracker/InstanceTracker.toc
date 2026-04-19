@@ -1,9 +1,9 @@
 ## Interface: 120001
 ## Title: Instance Tracker
 ## Notes: Track your farmed instances easily!
-## SavedVariables: InstanceTrackerDB, InstanceTrackerPos, InstanceTrackerGlobalDB, InstanceTrackerMinimapDB
 ## Author: Rodev307
+## SavedVariables: InstanceTrackerDB, InstanceTrackerPos, InstanceTrackerGlobalDB, InstanceTrackerSize, InstanceTrackerFirstLoad
 ## IconTexture: Interface\Icons\Inv_misc_pocketwatch_01
 
-
 InstanceTracker.lua
+
