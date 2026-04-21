@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120005
 ## Title: Instance Tracker
 ## Notes: Track your farmed instances easily!
 ## Author: Rodev307
